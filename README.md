@@ -18,6 +18,8 @@ The results indicate that 1) encoder-only models outperform encoder-decoder mode
       primaryClass={cs.CL},
       url={ https://arxiv.org/abs/2409.09501 }, 
 }
+Peer-reviewed version: 
+https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1497130/abstract
 
 # new hosting repository: please visit
 https://github.com/Libo-Ren/HECTA-UoM-Synthetic4Health
